@@ -1,0 +1,19 @@
+input[type=file]::file-selector-button {
+    color: #fff !important;
+    background-color: #2196F3 !important;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+} 
+input[type=file]::file-selector-button:hover {
+    color: #000 !important;
+    background-color: #ccc !important
+} 
