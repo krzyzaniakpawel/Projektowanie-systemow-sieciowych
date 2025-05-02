@@ -1,0 +1,70 @@
+Debug: (6.9999999999792E-6) - (net usage: 5230720) - (peak: 5817920)
+Database Error: EXECUTE(1366) - Incorrect string value: '\xF0\x9F\x98\xAD\xF0\x9F...' for column `cmsms`.`cms_siteprefs`.`sitepref_value` at row 1
+Backtrace in /opt/lampp/htdocs/cmsms/lib/classes/Database/class.compatibility.php on line 99
+set at /opt/lampp/htdocs/cmsms/admin/siteprefs.php:347
+Execute at /opt/lampp/htdocs/cmsms/lib/classes/class.cms_siteprefs.php:121
+SelectLimit at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:340
+do_sql at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:327
+OnError at /opt/lampp/htdocs/cmsms/lib/classes/Database/mysqli/class.Connection.php:131
+call_user_func at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:678
+on_error
+Debug: (6.000000000006E-6) - (net usage: 4611768) - (peak: 5279408)
+Database Error: EXECUTE(1366) - Incorrect string value: '\xF0\x9F\x98\xAD\xF0\x9F...' for column `cmsms`.`cms_siteprefs`.`sitepref_value` at row 1
+Backtrace in /opt/lampp/htdocs/cmsms/lib/classes/Database/class.compatibility.php on line 99
+set at /opt/lampp/htdocs/cmsms/admin/siteprefs.php:347
+Execute at /opt/lampp/htdocs/cmsms/lib/classes/class.cms_siteprefs.php:121
+SelectLimit at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:340
+do_sql at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:327
+OnError at /opt/lampp/htdocs/cmsms/lib/classes/Database/mysqli/class.Connection.php:131
+call_user_func at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:678
+on_error
+Debug: (6.9999999999792E-6) - (net usage: 4611768) - (peak: 5279408)
+Database Error: EXECUTE(1366) - Incorrect string value: '\xF0\x9F\x98\xAD\xF0\x9F...' for column `cmsms`.`cms_siteprefs`.`sitepref_value` at row 1
+Backtrace in /opt/lampp/htdocs/cmsms/lib/classes/Database/class.compatibility.php on line 99
+set at /opt/lampp/htdocs/cmsms/admin/siteprefs.php:347
+Execute at /opt/lampp/htdocs/cmsms/lib/classes/class.cms_siteprefs.php:121
+SelectLimit at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:340
+do_sql at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:327
+OnError at /opt/lampp/htdocs/cmsms/lib/classes/Database/mysqli/class.Connection.php:131
+call_user_func at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:678
+on_error
+Debug: (5.9999999999505E-6) - (net usage: 4611784) - (peak: 5279424)
+Database Error: EXECUTE(1366) - Incorrect string value: '\xF0\x9F\x98\xAD\xF0\x9F...' for column `cmsms`.`cms_siteprefs`.`sitepref_value` at row 1
+Backtrace in /opt/lampp/htdocs/cmsms/lib/classes/Database/class.compatibility.php on line 99
+set at /opt/lampp/htdocs/cmsms/admin/siteprefs.php:347
+Execute at /opt/lampp/htdocs/cmsms/lib/classes/class.cms_siteprefs.php:121
+SelectLimit at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:340
+do_sql at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:327
+OnError at /opt/lampp/htdocs/cmsms/lib/classes/Database/mysqli/class.Connection.php:131
+call_user_func at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:678
+on_error
+Debug: (5.9999999999505E-6) - (net usage: 4611800) - (peak: 5279440)
+Database Error: EXECUTE(1366) - Incorrect string value: '\xF0\x9F\x98\xAD\xF0\x9F...' for column `cmsms`.`cms_siteprefs`.`sitepref_value` at row 1
+Backtrace in /opt/lampp/htdocs/cmsms/lib/classes/Database/class.compatibility.php on line 99
+set at /opt/lampp/htdocs/cmsms/admin/siteprefs.php:347
+Execute at /opt/lampp/htdocs/cmsms/lib/classes/class.cms_siteprefs.php:121
+SelectLimit at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:340
+do_sql at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:327
+OnError at /opt/lampp/htdocs/cmsms/lib/classes/Database/mysqli/class.Connection.php:131
+call_user_func at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:678
+on_error
+Debug: (8.9999999999812E-6) - (net usage: 4611800) - (peak: 5279440)
+Database Error: EXECUTE(1366) - Incorrect string value: '\xF0\x9F\x98\xAD\xF0\x9F...' for column `cmsms`.`cms_siteprefs`.`sitepref_value` at row 1
+Backtrace in /opt/lampp/htdocs/cmsms/lib/classes/Database/class.compatibility.php on line 99
+set at /opt/lampp/htdocs/cmsms/admin/siteprefs.php:347
+Execute at /opt/lampp/htdocs/cmsms/lib/classes/class.cms_siteprefs.php:121
+SelectLimit at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:340
+do_sql at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:327
+OnError at /opt/lampp/htdocs/cmsms/lib/classes/Database/mysqli/class.Connection.php:131
+call_user_func at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:678
+on_error
+Debug: (8.000000000008E-6) - (net usage: 4611768) - (peak: 5279424)
+Database Error: EXECUTE(1366) - Incorrect string value: '\xF0\x9F\x98\xAD\xF0\x9F...' for column `cmsms`.`cms_siteprefs`.`sitepref_value` at row 1
+Backtrace in /opt/lampp/htdocs/cmsms/lib/classes/Database/class.compatibility.php on line 99
+set at /opt/lampp/htdocs/cmsms/admin/siteprefs.php:347
+Execute at /opt/lampp/htdocs/cmsms/lib/classes/class.cms_siteprefs.php:121
+SelectLimit at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:340
+do_sql at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:327
+OnError at /opt/lampp/htdocs/cmsms/lib/classes/Database/mysqli/class.Connection.php:131
+call_user_func at /opt/lampp/htdocs/cmsms/lib/classes/Database/class.Connection.php:678
+on_error
